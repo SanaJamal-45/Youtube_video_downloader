@@ -1,4 +1,4 @@
-# This is my first automation project using python : A Youtube video downloader
+# Automation project using python : A Youtube video downloader
 <br>
  Here's what it does:
 <br>
